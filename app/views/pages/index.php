@@ -34,8 +34,6 @@
 
       <div class="row g-0">
 
-
-
         <div class="col-xl-7 slides position-relative" data-aos="fade-up" data-aos-delay="200">
 
           <div class="swiper init-swiper">
@@ -94,31 +92,17 @@
                 </div>
               </div><!-- End slide item -->
 
-
-
-              <!-- <div class="swiper-slide">
-                <div class="item">
-                  <h3 class="mb-3">Necessitatibus suscipit non voluptatem quibusdam</h3>
-                  <h4 class="mb-3">Tempora quos est ut quia adipisci ut voluptas. Deleniti laborum soluta nihil est. Eum
-                    similique neque autem ut.</h4>
-                  <p>Ut rerum et autem vel. Et rerum molestiae aut sit vel incidunt sit at voluptatem. Saepe dolorem et
-                    sed voluptate impedit. Ad et qui sint at qui animi animi rerum.</p>
-                </div> -->
-            </div><!-- End slide item -->
-
+            </div>
+            <div class="swiper-pagination"></div>
           </div>
-          <div class="swiper-pagination"></div>
+
+          <div class="swiper-button-prev"></div>
+          <div class="swiper-button-next"></div>
         </div>
-
-        <div class="swiper-button-prev"></div>
-        <div class="swiper-button-next"></div>
-
-        <div class="col-xl-5 img-bg" data-aos="fade-up" data-aos-delay="100">
+        <div class="col-xl-5 img-bg aos-init aos-animate" data-aos="fade-up" data-aos-delay="100">
           <img src="<?php echo URLROOT; ?>/assets/img/new/vol.jpeg" alt="">
         </div>
       </div>
-
-    </div>
 
     </div>
 
@@ -132,13 +116,21 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Programmes</h2>
-      <p>Our various ways of fostering self empowerment and reducing unemployment</p>
+      <p>Our Various Ways Of Fostering Self Empowerment And Reducing Unemployment.</p>
     </div><!-- End Section Title -->
 
     <div class="container">
 
       <div class="row gy-4">
-
+        <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
+          <div class="icon flex-shrink-0"><i class="bi bi-battery-charging" style="color: #d90769;"></i></div>
+          <div>
+            <h4 class="title">Youth Empowerment</h4>
+            <p class="description"><strong>A path to a brighter future.</strong> By providing young people with education, skills, and opportunities, we enable them to shape their own future and contribute to social change.</p>
+            <a href="#" class="readmore stretched-link"><span>Learn More</span><i class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+        <!-- End Service Item -->
         <div class="col-lg-4 col-md-6 service-item d-flex" data-aos="fade-up" data-aos-delay="100">
           <div class="icon flex-shrink-0"><i class="bi bi-briefcase" style="color: #f57813;"></i></div>
           <div>
@@ -175,6 +167,8 @@
   </section><!-- /Services Section -->
 
 
+
+
   <!-- Call To Action Section -->
   <section id="call-to-action" class="call-to-action section dark-background">
 
@@ -207,32 +201,41 @@
 
       <div class="row gy-5">
 
-        <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="200">
+        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
           <div class="post-box">
-            <div class="post-img"><img src="assets/img/blog/blog-1.jpg" class="img-fluid" alt=""></div>
+            <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event1.jpeg" class="img-fluid" alt=""></div>
             <div class="meta">
-              <span class="post-date">Tue, December 12</span>
-              <span class="post-author"> / Julia Parker</span>
+              <span class="post-date">Nov 2023</span>
+              <span class="post-author"><i class="bi bi-arrow-right" style="color: #5578ff;"></i> April 2024</span>
             </div>
-            <h3 class="post-title">Eum ad dolor et. Autem aut fugiat debitis</h3>
-            <p>Illum voluptas ab enim placeat. Adipisci enim velit nulla. Vel omnis laudantium. Asperiores eum ipsa est
-              officiis. Modi qui magni est...</p>
-            <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i
-                class="bi bi-arrow-right"></i></a>
+            <h3 class="post-title">Fashion Design Training</h3>
           </div>
         </div>
 
-        <div class="col-xl-3 col-md-6" data-aos="fade-up" data-aos-delay="600">
+        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
           <div class="post-box">
-            <div class="post-img"><img src="assets/img/blog/blog-3.jpg" class="img-fluid" alt=""></div>
+            <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event2.jpeg" class="img-fluid" alt=""></div>
             <div class="meta">
-              <span class="post-date">Tue, July 27</span>
-              <span class="post-author"> / Lisa Hunter</span>
+              <span class="post-date">Nov 2023</span>
+              <span class="post-author"><i class="bi bi-arrow-right" style="color: #5578ff;"></i> April 2024</span>
             </div>
-            <h3 class="post-title">Quia assumenda est et veritati</h3>
-            <p>Quia nam eaque omnis explicabo similique eum quaerat similique laboriosam. Quis omnis repellat sed quae
+            <h3 class="post-title"> Shoe Making Trainings</h3>
+            <!-- <p>Quia nam eaque omnis explicabo similique eum quaerat similique laboriosam. Quis omnis repellat sed quae
               consectetur magnam...</p>
             <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i
+                class="bi bi-arrow-right"></i></a> -->
+          </div>
+        </div>
+
+        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+          <div class="post-box">
+            <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event3.jpeg" class="img-fluid" alt=""></div>
+            <div class="meta">
+              <span class="post-date">Nov 2023</span>
+              <span class="post-author"><i class="bi bi-arrow-right" style="color: #5578ff;"></i> April 2024</span>
+            </div>
+            <h3 class="post-title">Baking Class</h3>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Browse More</span><i
                 class="bi bi-arrow-right"></i></a>
           </div>
         </div>
@@ -242,6 +245,26 @@
     </div>
 
   </section><!-- /Recent Posts Section -->
+
+  <!-- Call To Action Section -->
+  <section id="call-to-action" class="call-to-action section dark-background">
+
+    <img src="<?php echo URLROOT; ?>/assets/img/new/vol.jpeg" alt="">
+
+    <div class="container">
+      <div class="row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
+        <div class="col-xl-10">
+          <div class="text-center">
+            <h3>Volunteer Opportunities</h3>
+            <p>Whether you have skills in education, healthcare, craftmanship or business, or simply a willingness to lend a hand, we invite you to join us as a volunteer!</p>
+            <a class="cta-btn" href="#">Get Involved</a>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </section><!-- /Call To Action Section -->
+
 
 </main>
 
