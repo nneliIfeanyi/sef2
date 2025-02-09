@@ -16,15 +16,13 @@
 
   <!-- About Section -->
   <section id="about" class="about section">
-
     <div class="container">
-
       <div class="row gy-4" data-aos="fade-up" data-aos-delay="100">
         <div class="col-lg-5">
           <img src="<?php echo URLROOT; ?>/assets/img/new/vol.jpeg" class="img-fluid" alt="">
         </div>
         <div class="col-lg-7" data-aos="fade-up" data-aos-delay="200">
-          <div class="content">
+          <div class="content"><br>
             <h3>OUR VISION</h3>
             <p>
               We want works to facilitate the organic growth of resource networks for
@@ -152,7 +150,7 @@
     <!-- Section Title -->
     <div class="container section-title" data-aos="fade-up">
       <h2>Our Team</h2>
-      <p>Necessitatibus eius consequatur ex aliquid fuga eum quidem sint consectetur velit</p>
+      <p>Collaboration drives impact, together we achieve more</p>
     </div><!-- End Section Title -->
 
     <div class="container">
@@ -162,16 +160,16 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="100">
           <div class="team-member">
             <div class="member-img">
-              <img src="assets/img/team/team-1.jpg" class="img-fluid" alt="">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/ceo.jpeg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Walter White</h4>
+              <h4>Samchuks Valentine Chikwadom</h4>
               <span>Chief Executive Officer</span>
             </div>
           </div>
@@ -180,57 +178,145 @@
         <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="team-member">
             <div class="member-img">
-              <img src="assets/img/team/team-2.jpg" class="img-fluid" alt="">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team2.jpeg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Sarah Jhonson</h4>
-              <span>Product Manager</span>
+              <h4>Delight Nwaneri</h4>
+              <span>Foundation Member</span>
             </div>
           </div>
         </div><!-- End Team Member -->
 
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="300">
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="team-member">
             <div class="member-img">
-              <img src="assets/img/team/team-3.jpg" class="img-fluid" alt="">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team6.jpeg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>William Anderson</h4>
-              <span>CTO</span>
+              <h4>McDonald Osinachi Samchucks</h4>
+              <span> Mechanic Engineer - Foundation Secretary</span>
             </div>
           </div>
         </div><!-- End Team Member -->
 
-        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="400">
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
           <div class="team-member">
             <div class="member-img">
-              <img src="assets/img/team/team-4.jpg" class="img-fluid" alt="">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team3.jpeg" class="img-fluid" alt="">
               <div class="social">
-                <a href=""><i class="bi bi-twitter-x"></i></a>
-                <a href=""><i class="bi bi-facebook"></i></a>
-                <a href=""><i class="bi bi-instagram"></i></a>
-                <a href=""><i class="bi bi-linkedin"></i></a>
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
               </div>
             </div>
             <div class="member-info">
-              <h4>Amanda Jepson</h4>
-              <span>Accountant</span>
+              <h4>Udumaga Godbless</h4>
+              <span>Process Engr. - Volunteer</span>
             </div>
           </div>
         </div><!-- End Team Member -->
 
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team1.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Pst. Raymond Onojaikeh</h4>
+              <span>Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Osaro Friday Wengo</h4>
+              <span>Mechanic Engr. - Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team5.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Nnamdi Alagba</h4>
+              <span>CEO Lexi-Care pharmacy - Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team4.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Chinda Elvis Chikadibia</h4>
+              <span> Professional footwears Maker - Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team7.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Victor Okafor</h4>
+              <span>Banker - Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
       </div>
 
     </div>
