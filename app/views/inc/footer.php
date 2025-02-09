@@ -30,11 +30,11 @@
                 <div class="col-lg-2 col-6 footer-links">
                     <h4>Events</h4>
                     <ul>
-                        <li><a href="#">Web Design</a></li>
-                        <li><a href="#">Web Development</a></li>
-                        <li><a href="#">Product Management</a></li>
-                        <li><a href="#">Marketing</a></li>
-                        <li><a href="#">Graphic Design</a></li>
+                        <li><a href="#">Educational Workshop</a></li>
+                        <li><a href="#">Digital Marketing</a></li>
+                        <li><a href="#">Fashion Design</a></li>
+                        <li><a href="#">Funiture Making</a></li>
+                        <li><a href="#">Baking And Catering</a></li>
                     </ul>
                 </div>
 
