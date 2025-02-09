@@ -29,4 +29,48 @@ class Pages extends Controller
     // Load about view
     $this->view('pages/index', $data);
   }
+
+  public function events()
+  {
+    //Set Data
+    $data = [
+      'version' => '1.0.0'
+    ];
+
+    // Load about view
+    $this->view('pages/events', $data);
+  }
+
+  public function volunteer()
+  {
+    //Set Data
+    $data = [
+      'version' => '1.0.0'
+    ];
+
+    // Load about view
+    $this->view('pages/volunteer', $data);
+  }
+
+  public function blog()
+  {
+    //Set Data
+    $data = [
+      'version' => '1.0.0'
+    ];
+
+    // Load about view
+    $this->view('pages/blog', $data);
+  }
+
+  public function donate()
+  {
+    //Set Data
+    $data = [
+      'version' => '1.0.0'
+    ];
+
+    // Load about view
+    $this->view('pages/donate', $data);
+  }
 }

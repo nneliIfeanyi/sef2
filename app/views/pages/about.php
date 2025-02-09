@@ -101,7 +101,7 @@
               <div class="swiper-slide">
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
-                  <h4 class="mb-3">Optio reiciendis accusantium iusto architecto at quia minima maiores quidem, dolorum.</h4>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
                   <img src="<?php echo URLROOT; ?>/assets/img/new/mil1.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
@@ -109,7 +109,7 @@
               <div class="swiper-slide">
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
-                  <h4 class="mb-3">Optio reiciendis accusantium iusto architecto at quia minima maiores quidem, dolorum.</h4>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
                   <img src="<?php echo URLROOT; ?>/assets/img/new/mil2.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
@@ -117,7 +117,7 @@
               <div class="swiper-slide">
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
-                  <h4 class="mb-3">Optio reiciendis accusantium iusto architecto at quia minima maiores quidem, dolorum.</h4>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
                   <img src="<?php echo URLROOT; ?>/assets/img/new/mil3.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
@@ -125,7 +125,7 @@
               <div class="swiper-slide">
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
-                  <h4 class="mb-3">Optio reiciendis accusantium iusto architecto at quia minima maiores quidem, dolorum.</h4>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
                   <img src="<?php echo URLROOT; ?>/assets/img/new/mil4.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->

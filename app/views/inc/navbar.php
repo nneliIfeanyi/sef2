@@ -10,20 +10,20 @@
 
     <nav id="navmenu" class="navmenu">
       <ul>
-        <li><a href="<?php echo URLROOT; ?>/pages" class="active">Home<br></a></li>
+        <li><a href="<?php echo URLROOT; ?>/pages">Home<br></a></li>
         <li><a href="<?php echo URLROOT; ?>/pages/about">About</a></li>
-        <li><a href="services.html">Events</a></li>
-        <li><a href="blog.html">Volunteer</a></li>
-        <li><a href="blog.html">Blog</a></li>
-        <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
+        <li><a href="<?php echo URLROOT; ?>/pages/events">Events</a></li>
+        <li><a href="<?php echo URLROOT; ?>/pages/volunteer">Volunteer</a></li>
+        <li><a href="<?php echo URLROOT; ?>/pages/blog">Blog</a></li>
+        <!-- <li class="dropdown"><a href="#"><span>Gallery</span> <i class="bi bi-chevron-down toggle-dropdown"></i></a>
           <ul>
             <li><a href="#">Dropdown 1</a></li>
             <li><a href="#">Dropdown 2</a></li>
             <li><a href="#">Dropdown 3</a></li>
             <li><a href="#">Dropdown 4</a></li>
           </ul>
-        </li>
-        <li><a href="contact.html">Donate</a></li>
+        </li> -->
+        <li><a href="<?php echo URLROOT; ?>/pages/donate">Donate</a></li>
       </ul>
       <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
     </nav>
