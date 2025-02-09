@@ -212,6 +212,22 @@
           </div>
         </div>
 
+
+
+
+        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
+          <div class="post-box">
+            <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event3.jpeg" class="img-fluid" alt=""></div>
+            <div class="meta">
+              <span class="post-date">Nov 2023</span>
+              <span class="post-author"><i class="bi bi-arrow-right" style="color: #5578ff;"></i> April 2024</span>
+            </div>
+            <h3 class="post-title">Baking Class</h3>
+            <a href="blog-details.html" class="readmore stretched-link"><span>Browse More</span><i
+                class="bi bi-arrow-right"></i></a>
+          </div>
+        </div>
+
         <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
           <div class="post-box">
             <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event2.jpeg" class="img-fluid" alt=""></div>
@@ -224,19 +240,6 @@
               consectetur magnam...</p>
             <a href="blog-details.html" class="readmore stretched-link"><span>Read More</span><i
                 class="bi bi-arrow-right"></i></a> -->
-          </div>
-        </div>
-
-        <div class="col-xl-4 col-md-6" data-aos="fade-up" data-aos-delay="600">
-          <div class="post-box">
-            <div class="post-img"><img src="<?php echo URLROOT; ?>/assets/img/new/event3.jpeg" class="img-fluid" alt=""></div>
-            <div class="meta">
-              <span class="post-date">Nov 2023</span>
-              <span class="post-author"><i class="bi bi-arrow-right" style="color: #5578ff;"></i> April 2024</span>
-            </div>
-            <h3 class="post-title">Baking Class</h3>
-            <a href="blog-details.html" class="readmore stretched-link"><span>Browse More</span><i
-                class="bi bi-arrow-right"></i></a>
           </div>
         </div>
 

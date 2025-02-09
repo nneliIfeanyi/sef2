@@ -36,6 +36,6 @@
   ======================================================== -->
 </head>
 
-<body class="index-page">
+<body">
 
   <?php require APPROOT . '/views/inc/navbar.php'; ?>

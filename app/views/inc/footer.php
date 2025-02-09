@@ -9,32 +9,32 @@
                     </a>
                     <p>Volunteering with us is a rewarding way to give back to your community..</p>
                     <div class="social-links d-flex mt-4">
-                        <a href=""><i class="bi bi-twitter-x"></i></a>
-                        <a href=""><i class="bi bi-facebook"></i></a>
-                        <a href=""><i class="bi bi-instagram"></i></a>
-                        <a href=""><i class="bi bi-linkedin"></i></a>
+                        <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                        <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                        <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                        <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
                     </div>
                 </div>
 
                 <div class="col-lg-2 col-6 footer-links">
                     <h4>Useful Links</h4>
                     <ul>
-                        <li><a href="#">Home</a></li>
-                        <li><a href="#">About us</a></li>
-                        <li><a href="#">Volunteer</a></li>
-                        <li><a href="#">Terms of service</a></li>
-                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages">Home</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/about">About us</a></li>
+                        <li><a href="javascript:void">Volunteer</a></li>
+                        <li><a href="javascript:void">Terms of service</a></li>
+                        <li><a href="javascript:void">Privacy policy</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-2 col-6 footer-links">
                     <h4>Events</h4>
                     <ul>
-                        <li><a href="#">Educational Workshop</a></li>
-                        <li><a href="#">Digital Marketing</a></li>
-                        <li><a href="#">Fashion Design</a></li>
-                        <li><a href="#">Funiture Making</a></li>
-                        <li><a href="#">Baking And Catering</a></li>
+                        <li><a href="javascript:void">Educational Workshop</a></li>
+                        <li><a href="javascript:void">Digital Marketing</a></li>
+                        <li><a href="javascript:void">Fashion Design</a></li>
+                        <li><a href="javascript:void">Funiture Making</a></li>
+                        <li><a href="javascript:void">Baking And Catering</a></li>
                     </ul>
                 </div>
 
@@ -43,8 +43,8 @@
                     <p>A108 Adam Street</p>
                     <p>New York, NY 535022</p>
                     <p>United States</p>
-                    <p class="mt-4"><strong>Phone:</strong> <span>+1 5589 55488 55</span></p>
-                    <p><strong>Email:</strong> <span>info@example.com</span></p>
+                    <p class="mt-4"><strong>Phone:</strong> <span>+234 909 399 3295</span></p>
+                    <p><strong>Email:</strong> <span>Samchuksempowermentfoundation@gmail.com</span></p>
                 </div>
 
             </div>
