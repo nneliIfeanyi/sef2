@@ -341,5 +341,6 @@
     </div>
 
   </section><!-- /Call To Action Section -->
+</main>
 
-  <?php require APPROOT . '/views/inc/footer.php'; ?>
+<?php require APPROOT . '/views/inc/footer.php'; ?>

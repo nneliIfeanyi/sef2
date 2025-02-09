@@ -43,13 +43,58 @@ class Pages extends Controller
 
   public function volunteer()
   {
-    //Set Data
-    $data = [
-      'version' => '1.0.0'
-    ];
+    if ($_SERVER['REQUEST_METHOD'] == 'POST') {
+      // Sanitize POST
+      $_POST  = filter_input_array(INPUT_POST, FILTER_SANITIZE_STRING);
 
-    // Load about view
-    $this->view('pages/volunteer', $data);
+      $data = [
+        'name' => trim($_POST['name']),
+        'email' => trim($_POST['email']),
+        'phone' => trim($_POST['phone']),
+        'occ' => trim($_POST['occ']),
+        'sex' => trim($_POST['sex']),
+        'aoi' => trim($_POST['aoi']),
+        'name_err' => '',
+        'email_err' => '',
+        'phone_err' => '',
+        'sex_err' => '',
+        'aoi' => '',
+        'occ' => ''
+      ];
+
+      // Validate email
+      if (empty($data['email'])) {
+        $data['email_err'] = 'Please enter an email!';
+        // Validate name
+        if (empty($data['name'])) {
+          $data['name_err'] = 'Please enter a name!';
+        }
+        $this->view('pages/volunteer', $data);
+      } elseif (empty($data['phone'])) {
+        $data['phone_err'] = 'Phone number is required!';
+        $this->view('pages/volunteer', $data);
+      } elseif (empty($data['sex'])) {
+        $data['sex_err'] = 'Kindly select an option!';
+        $this->view('pages/volunteer', $data);
+      } elseif (empty($data['aoi'])) {
+        $data['aoi_err'] = 'This field is required!';
+        $this->view('pages/volunteer', $data);
+      }
+    } else {
+      $data = [
+        'name' => '',
+        'email' => '',
+        'occ' => '',
+        'phone' => '',
+        'name_err' => '',
+        'email_err' => '',
+        'occ_err' => '',
+        'phone_err' => '',
+        'sex' => '',
+      ];
+      // Load about view
+      $this->view('pages/volunteer', $data);
+    }
   }
 
   public function blog()
