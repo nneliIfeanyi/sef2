@@ -4,7 +4,7 @@
     <a href="index.html" class="logo d-flex align-items-center">
       <!-- Uncomment the line below if you also wish to use an image logo -->
       <!-- <img src="assets/img/logo.png" alt=""> -->
-      <h1 class="sitename fst-italic d-lg-none" style="font-size: x-small;"><?php echo SITENAME; ?></h1>
+      <h1 class="sitename fst-italic d-lg-none" style="font-size: small;"><?php echo SITENAME; ?></h1>
       <h1 class="sitename fst-italic d-none d-lg-block fs-6"><?php echo SITENAME; ?></h1>
     </a>
 

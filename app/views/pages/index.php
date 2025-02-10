@@ -16,7 +16,7 @@
             <p>Join us in our mission to provide essential resources and support to those in need. Your involvement can make a significant impact.</p>
           </blockquote>
           <div class="d-flex" data-aos="fade-up" data-aos-delay="200">
-            <a href="#about" class="btn-get-started">Learn More</a>
+            <a href="<?php echo URLROOT; ?>/pages/about" class="btn-get-started">Learn More</a>
             <a href="<?php echo URLROOT; ?>/assets/img/new/vid.mp4"
               class="glightbox btn-watch-video d-flex align-items-center"><i class="bi bi-play-circle"></i><span>Watch
                 Video</span></a>
@@ -260,7 +260,7 @@
           <div class="text-center">
             <h3>Volunteer Opportunities</h3>
             <p>Whether you have skills in education, healthcare, craftmanship or business, or simply a willingness to lend a hand, we invite you to join us as a volunteer!</p>
-            <a class="cta-btn" href="#">Get Involved</a>
+            <a class="cta-btn" href="<?php echo URLROOT; ?>/pages/volunteer">Get Involved</a>
           </div>
         </div>
       </div>

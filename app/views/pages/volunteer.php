@@ -2,7 +2,7 @@
 <main class="main">
 
     <!-- Page Title -->
-    <div class="page-title dark-background" data-aos="fade" style="background-image: url(<?php echo URLROOT; ?>/assets/img/new/ceo2.jpeg);">
+    <div class="page-title dark-background" data-aos="fade" style="background-image: url(<?php echo URLROOT; ?>/assets/img/new/about.jpg);">
         <div class="container">
             <h1>Volunteer Opportunities</h1>
             <nav class="breadcrumbs">
@@ -68,7 +68,7 @@
                                 <div class="error-message"></div>
                                 <div class="sent-message">Your message has been sent. Thank you!</div> -->
 
-                                <button class="btn btn-primary" type="submit">Send Message</button>
+                                <button class="btn btn-primary" type="submit">Submit Form</button>
                             </div>
 
                         </div>
