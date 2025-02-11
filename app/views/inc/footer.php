@@ -21,20 +21,20 @@
                     <ul>
                         <li><a href="<?php echo URLROOT; ?>/pages">Home</a></li>
                         <li><a href="<?php echo URLROOT; ?>/pages/about">About us</a></li>
-                        <li><a href="javascript:void">Volunteer</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/volunteer">Volunteer</a></li>
                         <li><a href="javascript:void">Terms of service</a></li>
                         <li><a href="javascript:void">Privacy policy</a></li>
                     </ul>
                 </div>
 
                 <div class="col-lg-2 col-6 footer-links">
-                    <h4>Events</h4>
+                    <h4>Programmes</h4>
                     <ul>
-                        <li><a href="javascript:void">Educational Workshop</a></li>
-                        <li><a href="javascript:void">Digital Marketing</a></li>
-                        <li><a href="javascript:void">Fashion Design</a></li>
-                        <li><a href="javascript:void">Funiture Making</a></li>
-                        <li><a href="javascript:void">Baking And Catering</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/events#animal">Animal Farming</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/events#outreach">Community outreach</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/events#fashion">Fashion Design</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/events#furniture">Funiture Making</a></li>
+                        <li><a href="<?php echo URLROOT; ?>/pages/events#baking">Baking And Catering</a></li>
                     </ul>
                 </div>
 

@@ -196,7 +196,7 @@
     </div><!-- End Section Title -->
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
-        <div class="col-lg-8">
+        <div class="col-lg-6">
           <div class="portfolio-details-slider swiper init-swiper">
             <script type="application/json" class="swiper-config">
               {
@@ -236,7 +236,7 @@
             <div class="swiper-pagination"></div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
             <h4>Programme information</h4>
             <ul>
@@ -254,7 +254,7 @@
     <!-- Recent programme item two -->
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
-        <div class="col-lg-8">
+        <div class="col-lg-6">
           <div class="portfolio-details-slider swiper init-swiper">
             <script type="application/json" class="swiper-config">
               {
@@ -294,7 +294,7 @@
             <div class="swiper-pagination"></div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
             <h4>Programme information</h4>
             <ul>
@@ -312,7 +312,7 @@
     <!-- Recent programme item three -->
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
-        <div class="col-lg-8">
+        <div class="col-lg-6">
           <div class="portfolio-details-slider swiper init-swiper">
             <script type="application/json" class="swiper-config">
               {
@@ -343,7 +343,7 @@
             <div class="swiper-pagination"></div>
           </div>
         </div>
-        <div class="col-lg-4">
+        <div class="col-lg-6">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
             <h4>Programme information</h4>
             <ul>
