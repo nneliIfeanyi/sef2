@@ -180,7 +180,7 @@
           <div class="text-center">
             <h3>Fundraiser</h3>
             <p>Your generosity will provide hope, oppotunities and brighter future for those in need. Every donation big or small, makes a difference. Together we can transform lives, lets give hope to where its needed most. Thank you!</p>
-            <a class="cta-btn" href="#">Donate Now</a>
+            <a class="cta-btn" href="<?php echo URLROOT; ?>/pages/donate">Donate Now</a>
           </div>
         </div>
       </div>
@@ -245,7 +245,7 @@
               <li><strong>Participants</strong>: 50+ individuals</li>
               <li><strong>Programme duration</strong>:6 Months</li>
             </ul>
-            <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
+            <a href="<?php echo URLROOT; ?>/pages/events#fashion" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
@@ -303,12 +303,13 @@
               <li><strong>Beneficiaries</strong>: 3+ Orphanage homes</li>
               <li><strong>Programme duration</strong>:Anually</li>
             </ul>
-            <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
+            <a href="<?php echo URLROOT; ?>/pages/events#orphanage" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>
     </div>
-
+    <br><br><br><br>
+    <!-- Recent programme item three -->
     <div class="container" data-aos="fade-up" data-aos-delay="100">
       <div class="row gy-4">
         <div class="col-lg-8">
@@ -351,7 +352,7 @@
               <li><strong>Participants</strong>: 50+ individuals</li>
               <li><strong>Programme duration</strong>:6 Months</li>
             </ul>
-            <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
+            <a href="<?php echo URLROOT; ?>/pages/events#shoe" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
           </div>
         </div>
       </div>

@@ -20,7 +20,9 @@
             <h2>Recent Programmes</h2>
             <p>Our Various Ways Of Fostering Self Empowerment And Reducing Unemployment.</p>
         </div><!-- End Section Title -->
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" id="fashion">
+            <h2 class="h4 text-center pb-3 fw-bold">Fashion Design Skill Acquisation</h2>
             <div class="row gy-4">
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper init-swiper">
@@ -70,13 +72,14 @@
                             <li><strong>Category</strong>: Skill Acquisation</li>
                             <li><strong>Participants</strong>: 50+ individuals</li>
                             <li><strong>Programme duration</strong>:6 Months</li>
+                            <li><strong>Programme year</strong>:Nov. 2023 - April 2024</li>
                         </ul>
-                        <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                     <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-                        <h2>Exercitationem repudiandae officiis neque suscipit</h2>
-                        <p>
-                            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                        <p>A 6-month intensive fashion designing training program equipped 50 beneficiaries with valuable skills, enabling them to generate income.
+                            The training covered various aspects of fashion design, from sketching and pattern making to sewing and garment construction. Participants learned to create their own designs and tailor outfits, opening up opportunities for self-employment or employment in the fashion industry.
+                            At the end of the training, the beneficiaries were fully empowered with sewing machine and other accessories.
+                            This initiative has not only empowered individuals but also contributed to the growth of the local fashion community.
                         </p>
                     </div>
                 </div>
@@ -84,7 +87,9 @@
         </div>
         <br><br><br><br>
         <!-- Recent programme item two -->
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" id="orphanage">
+            <h2 class="h4 text-center pb-3 fw-bold">Community Outreach</h2>
             <div class="row gy-4">
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper init-swiper">
@@ -130,24 +135,26 @@
                     <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
                         <h3>Programme information</h3>
                         <ul>
-                            <li><strong>Tag</strong>: <a href="javascript:void">2024 Orphanage Visit</a></li>
+                            <li><strong>Tag</strong>: <a href="javascript:void">Orphanage Visit</a></li>
                             <li><strong>Category</strong>: Community Outreach</li>
                             <li><strong>Beneficiaries</strong>: 3+ Orphanage homes</li>
                             <li><strong>Programme duration</strong>:Anually</li>
+                            <li><strong>Programme year</strong>:Jan. 2024</li>
                         </ul>
-                        <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                     <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-                        <h2>Exercitationem repudiandae officiis neque suscipit</h2>
                         <p>
-                            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                            The Samchuks Foundation made its annual visit to a local orphanage in 2024, bringing cheer and demonstrating their continued dedication to the children residing there. The visit included interaction with the children through games, storytelling, and the distribution of gifts. This yearly tradition underscores the Foundation's commitment to supporting vulnerable children and spreading love and kindness within the community.
                         </p>
                     </div>
                 </div>
             </div>
         </div>
+        <br><br><br><br>
+        <!-- Recent programme item three -->
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100">
+        <div class="container" data-aos="fade-up" data-aos-delay="100" id="shoe">
+            <h2 class="h4 text-center pb-3 fw-bold">Shoe Making Skill Acquisation</h2>
             <div class="row gy-4">
                 <div class="col-lg-8">
                     <div class="portfolio-details-slider swiper init-swiper">
@@ -187,14 +194,71 @@
                             <li><strong>Tag</strong>: <a href="javascript:void">Shoe Making</a></li>
                             <li><strong>Category</strong>: Skill Acquisation</li>
                             <li><strong>Participants</strong>: 50+ individuals</li>
-                            <li><strong>Programme duration</strong>:6 Months</li>
+                            <li><strong>Programme duration</strong>: 6 Months</li>
+                            <li><strong>Programme year</strong>: Nov. 2023 - April 2024</li>
                         </ul>
-                        <a href="#" class="readmore stretched-link"><span>More details</span><i class="bi bi-arrow-right"></i></a>
                     </div>
                     <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
-                        <h2>Exercitationem repudiandae officiis neque suscipit</h2>
                         <p>
-                            Autem ipsum nam porro corporis rerum. Quis eos dolorem eos itaque inventore commodi labore quia quia. Exercitationem repudiandae officiis neque suscipit non officia eaque itaque enim. Voluptatem officia accusantium nesciunt est omnis tempora consectetur dignissimos. Sequi nulla at esse enim cum deserunt eius.
+                            A total of fifty individuals successfully completed a comprehensive six-month shoe-making training program, gaining skills that are now enabling them to generate income and also empowered with necessary tools . The intensive training covered the full shoemaking process, from conceptual design and pattern creation to the intricacies of construction, stitching, and finishing. Participants developed practical expertise, preparing them to pursue self-employment by establishing their own small businesses or to seek opportunities within the footwear industry. The program has demonstrably empowered these individuals to achieve financial independence and is expected to have a positive ripple effect on their communities.
+                        </p>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <br><br><br><br>
+        <!-- Recent programme item three -->
+
+        <div class="container" data-aos="fade-up" data-aos-delay="100" id="shoe">
+            <h2 class="h4 text-center pb-3 fw-bold">Baking And Catering Skill Acquisation</h2>
+            <div class="row gy-4">
+                <div class="col-lg-8">
+                    <div class="portfolio-details-slider swiper init-swiper">
+                        <script type="application/json" class="swiper-config">
+                            {
+                                "loop": true,
+                                "speed": 600,
+                                "autoplay": {
+                                    "delay": 5000
+                                },
+                                "slidesPerView": "auto",
+                                "pagination": {
+                                    "el": ".swiper-pagination",
+                                    "type": "bullets",
+                                    "clickable": true
+                                }
+                            }
+                        </script>
+
+                        <div class="swiper-wrapper align-items-center">
+                            <div class="swiper-slide">
+                                <img src="<?php echo URLROOT; ?>/assets/img/new/event3.jpeg" alt="">
+                            </div>
+
+                            <div class="swiper-slide">
+                                <img src="<?php echo URLROOT; ?>/assets/img/new/mil3.jpeg" alt="">
+                            </div>
+
+                        </div>
+                        <div class="swiper-pagination"></div>
+                    </div>
+                </div>
+                <div class="col-lg-4">
+                    <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
+                        <h3>Programme information</h3>
+                        <ul>
+                            <li><strong>Tag</strong>: <a href="javascript:void">Baking and Catering</a></li>
+                            <li><strong>Category</strong>: Skill Acquisation</li>
+                            <li><strong>Participants</strong>: 60+ individuals</li>
+                            <li><strong>Programme duration</strong>: 6 Months</li>
+                            <li><strong>Programme year</strong>: Nov. 2023 - April 2024</li>
+                        </ul>
+                    </div>
+                    <div class="portfolio-description" data-aos="fade-up" data-aos-delay="300">
+                        <p>
+                            Sixty beneficiaries successfully completed a six-month training program focused on baking and catering. The comprehensive curriculum covered a wide range of skills, from basic baking techniques, commercial international and local dishes preparations and recipe development to advanced culinary arts and catering management.
+                            Upon completion of the program, each participant received a set of essential baking tools, empowering them to immediately begin generating income.
+                            This investment in both training and equipment has enabled these individuals to launch their own baking or catering businesses, creating new economic opportunities for themselves and their communities.
                         </p>
                     </div>
                 </div>
