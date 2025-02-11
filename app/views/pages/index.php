@@ -238,7 +238,7 @@
         </div>
         <div class="col-lg-4">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-            <h3>Programme information</h3>
+            <h4>Programme information</h4>
             <ul>
               <li><strong>Tag</strong>: <a href="javascript:void">Fashion Design</a></li>
               <li><strong>Category</strong>: Skill Acquisation</li>
@@ -296,7 +296,7 @@
         </div>
         <div class="col-lg-4">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-            <h3>Programme information</h3>
+            <h4>Programme information</h4>
             <ul>
               <li><strong>Tag</strong>: <a href="javascript:void">2024 Orphanage Visit</a></li>
               <li><strong>Category</strong>: Community Outreach</li>
@@ -345,7 +345,7 @@
         </div>
         <div class="col-lg-4">
           <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-            <h3>Programme information</h3>
+            <h4>Programme information</h4>
             <ul>
               <li><strong>Tag</strong>: <a href="javascript:void">Shoe Making</a></li>
               <li><strong>Category</strong>: Skill Acquisation</li>

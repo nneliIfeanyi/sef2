@@ -66,7 +66,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-                        <h3>Programme information</h3>
+                        <h4>Programme information</h4>
                         <ul>
                             <li><strong>Tag</strong>: <a href="javascript:void">Fashion Design</a></li>
                             <li><strong>Category</strong>: Skill Acquisation</li>
@@ -85,7 +85,7 @@
                 </div>
             </div>
         </div>
-        <br><br><br><br>
+        <br><br>
         <!-- Recent programme item two -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100" id="orphanage">
@@ -133,7 +133,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-                        <h3>Programme information</h3>
+                        <h4>Programme information</h4>
                         <ul>
                             <li><strong>Tag</strong>: <a href="javascript:void">Orphanage Visit</a></li>
                             <li><strong>Category</strong>: Community Outreach</li>
@@ -150,7 +150,7 @@
                 </div>
             </div>
         </div>
-        <br><br><br><br>
+        <br><br>
         <!-- Recent programme item three -->
 
         <div class="container" data-aos="fade-up" data-aos-delay="100" id="shoe">
@@ -189,7 +189,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-                        <h3>Programme information</h3>
+                        <h4>Programme information</h4>
                         <ul>
                             <li><strong>Tag</strong>: <a href="javascript:void">Shoe Making</a></li>
                             <li><strong>Category</strong>: Skill Acquisation</li>
@@ -206,10 +206,10 @@
                 </div>
             </div>
         </div>
-        <br><br><br><br>
+        <br><br>
         <!-- Recent programme item three -->
 
-        <div class="container" data-aos="fade-up" data-aos-delay="100" id="shoe">
+        <div class="container" data-aos="fade-up" data-aos-delay="100" id="baking">
             <h2 class="h4 text-center pb-3 fw-bold">Baking And Catering Skill Acquisation</h2>
             <div class="row gy-4">
                 <div class="col-lg-8">
@@ -245,7 +245,7 @@
                 </div>
                 <div class="col-lg-4">
                     <div class="portfolio-info" data-aos="fade-up" data-aos-delay="200">
-                        <h3>Programme information</h3>
+                        <h4>Programme information</h4>
                         <ul>
                             <li><strong>Tag</strong>: <a href="javascript:void">Baking and Catering</a></li>
                             <li><strong>Category</strong>: Skill Acquisation</li>
