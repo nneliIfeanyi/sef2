@@ -2,9 +2,9 @@
 <main class="main">
 
   <!-- Page Title -->
-  <div class="page-title dark-background" data-aos="fade" style="background-image: url(<?php echo URLROOT; ?>/assets/img/new/ceo2.jpeg);">
+  <div class="page-title dark-background" data-aos="fade" style="background-image: url(<?php echo URLROOT; ?>/assets/img/new/vol.jpeg);">
     <div class="container">
-      <h1>About</h1>
+      <h1>About Us</h1>
       <nav class="breadcrumbs">
         <ol>
           <li><a href="index.html">Home</a></li>
@@ -18,10 +18,10 @@
   <section id="about" class="about section">
     <div class="container">
       <div class="row gy-4" data-aos="fade-up" data-aos-delay="100">
-        <div class="col-lg-5">
+        <!-- <div class="col-lg-5">
           <img src="<?php echo URLROOT; ?>/assets/img/new/vol.jpeg" class="img-fluid" alt="">
-        </div>
-        <div class="col-lg-7" data-aos="fade-up" data-aos-delay="200">
+        </div> -->
+        <div class="col-lg-8 offset-lg-2" data-aos="fade-up" data-aos-delay="200">
           <div class="content"><br>
             <h3>OUR VISION</h3>
             <p>
@@ -334,7 +334,7 @@
           <div class="text-center">
             <h3>Volunteer Opportunities</h3>
             <p>Whether you have skills in education, healthcare, craftmanship or business, or simply a willingness to lend a hand, we invite you to join us as a volunteer!</p>
-            <a class="cta-btn" href="#">Get Involved</a>
+            <a class="cta-btn" href="<?php echo URLROOT; ?>/pages/volunteer">Get Involved</a>
           </div>
         </div>
       </div>
