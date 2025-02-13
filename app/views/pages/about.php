@@ -94,6 +94,7 @@
                   "nextEl": ".swiper-button-next",
                   "prevEl": ".swiper-button-prev"
                 }
+                2
               }
             </script>
             <div class="swiper-wrapper">
@@ -102,7 +103,7 @@
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
                   <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
-                  <img src="<?php echo URLROOT; ?>/assets/img/new/mil1.jpeg" class="img-fluid" alt="">
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/cert2.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
 
@@ -110,7 +111,15 @@
                 <div class="item">
                   <h3 class="mb-3">Millstones</h3>
                   <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
-                  <img src="<?php echo URLROOT; ?>/assets/img/new/mil2.jpeg" class="img-fluid" alt="">
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/mill11.jpeg" class="img-fluid" alt="">
+                </div>
+              </div><!-- End slide item -->
+
+              <div class="swiper-slide">
+                <div class="item">
+                  <h3 class="mb-3">Millstones</h3>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/mill5.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
 
@@ -127,6 +136,27 @@
                   <h3 class="mb-3">Millstones</h3>
                   <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
                   <img src="<?php echo URLROOT; ?>/assets/img/new/mil4.jpeg" class="img-fluid" alt="">
+                </div>
+              </div><!-- End slide item -->
+              <div class="swiper-slide">
+                <div class="item">
+                  <h3 class="mb-3">Millstones</h3>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/funny3.jpeg" class="img-fluid" alt="">
+                </div>
+              </div><!-- End slide item -->
+              <div class="swiper-slide">
+                <div class="item">
+                  <h3 class="mb-3">Millstones</h3>
+                  <h4 class="mb-3">April 2024 skill acquisition closing ceremony.</h4>
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/event.jpeg" class="img-fluid" alt="">
+                </div>
+              </div><!-- End slide item -->
+              <div class="swiper-slide">
+                <div class="item">
+                  <h3 class="mb-3">Millstones</h3>
+                  <h4 class="mb-3">April 2024 skill acquisition opening ceremony.</h4>
+                  <img src="<?php echo URLROOT; ?>/assets/img/new/all1.jpeg" class="img-fluid" alt="">
                 </div>
               </div><!-- End slide item -->
 
@@ -312,8 +342,26 @@
               </div>
             </div>
             <div class="member-info">
-              <h4>Victor Okafor</h4>
+              <h4>Okoroafar Pius Victor</h4>
               <span>Banker - Volunteer</span>
+            </div>
+          </div>
+        </div><!-- End Team Member -->
+
+        <div class="col-lg-3 col-md-6 d-flex align-items-stretch" data-aos="fade-up" data-aos-delay="200">
+          <div class="team-member">
+            <div class="member-img">
+              <img src="<?php echo URLROOT; ?>/assets/img/new/team8.jpeg" class="img-fluid" alt="">
+              <div class="social">
+                <a href="javascript:void"><i class="bi bi-twitter-x"></i></a>
+                <a href="javascript:void"><i class="bi bi-facebook"></i></a>
+                <a href="javascript:void"><i class="bi bi-instagram"></i></a>
+                <a href="javascript:void"><i class="bi bi-linkedin"></i></a>
+              </div>
+            </div>
+            <div class="member-info">
+              <h4>Friday Eliozu</h4>
+              <span>Mechanical Technician - Volunteer</span>
             </div>
           </div>
         </div><!-- End Team Member -->

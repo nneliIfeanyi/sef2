@@ -28,7 +28,7 @@
                 </div>
 
                 <div class="col-lg-2 col-6 footer-links">
-                    <h4>Programmes</h4>
+                    <h4>Past Events</h4>
                     <ul>
                         <li><a href="<?php echo URLROOT; ?>/pages/events#animal">Animal Farming</a></li>
                         <li><a href="<?php echo URLROOT; ?>/pages/events#outreach">Community outreach</a></li>
@@ -39,10 +39,10 @@
                 </div>
 
                 <div class="col-lg-3 col-md-12 footer-contact text-center text-md-start">
-                    <h4>Contact Us</h4>
+                    <!-- <h4>Contact Us</h4>
                     <p>A108 Adam Street</p>
                     <p>New York, NY 535022</p>
-                    <p>United States</p>
+                    <p>United States</p> -->
                     <p class="mt-4"><strong>Phone:</strong> <span>+234 909 399 3295</span></p>
                     <p><strong>Email:</strong> <span>Samchuksempowermentfoundation@gmail.com</span></p>
                 </div>

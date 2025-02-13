@@ -17,7 +17,7 @@
     <!-- Portfolio Details Section -->
     <section id="portfolio-details" class="portfolio-details section">
         <div class="container section-title" data-aos="fade-up">
-            <h2>Recent Programmes</h2>
+            <h2>Past Events</h2>
             <p>Our Various Ways Of Fostering Self Empowerment And Reducing Unemployment.</p>
         </div><!-- End Section Title -->
 
