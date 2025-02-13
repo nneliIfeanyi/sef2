@@ -94,7 +94,6 @@
                   "nextEl": ".swiper-button-next",
                   "prevEl": ".swiper-button-prev"
                 }
-                2
               }
             </script>
             <div class="swiper-wrapper">
